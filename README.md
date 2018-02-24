@@ -15,6 +15,6 @@
 <br></br>
 <blockquote>command: pip install openpyxl</blockquote>
 <br></br>
-4. yattag, 想輸出HTML又不想直接寫太多tag的起始結尾(ex: <tag></tag>)可以使用的helper
+4. yattag, 想輸出HTML又不想直接寫太多tag的起始結尾可以使用的helper
 <br></br>
 <blockquote>command: pip install yattag</blockquote>
